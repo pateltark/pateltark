@@ -5,9 +5,9 @@
 
 🚀 **I’m currently working on:** Physical AI, local LLM deployment, and production-ready AI solutions.<br>
 
-🔍 **Open to collaborations:** LLMs, AI Agents, RAG Systems, MLOps, Machine Learning, and Deep Learning projects.<br>
+🔍 **Open to collaborations:** LLMs, MCP, LLM FIne Tuning, MLOps, Machine Learning, and Deep Learning projects.<br>
 
-🌱 **I’m currently learning:** Currently exploring: Multimodal AI, Agentic AI, advanced LLM architectures, and scalable AI systems.<br>
+🌱 **I’m currently learning:** Multimodal AI, Agentic AI, advanced LLM architectures, and scalable AI systems.<br>
 
 💡 **Ask me about:** Machine Learning, Deep Learning, LLMs, MLOps, RAG, LangChain, and AI deployment.<br>
 
