@@ -49,9 +49,7 @@
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
  
 *Deployment*
  
@@ -59,7 +57,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 ![HuggingFace Hub](https://img.shields.io/badge/HuggingFace%20Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)
@@ -68,8 +67,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat&logo=terraform&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
