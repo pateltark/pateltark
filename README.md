@@ -14,10 +14,10 @@
 ⚡ **Fun fact:** From MSc Chemistry to AI/ML Engineer — proving that curiosity can be a powerful career accelerator! 😎<br>
 
 ###
-<div align="center">
+<!--<div align="center">
 <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif">
-</div>
-
+</div> 
+-->
 
 ## Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white)](https://pateltark.github.io/)
@@ -82,10 +82,6 @@
 
 
 
-
-<!-- Snake Game Repo View -->
-
-![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)
 
 
 
